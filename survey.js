@@ -21,16 +21,3 @@ rl.question('What is your name? Or nickname if you prefer? ', (name) => {
     });
   });
 });
-
-
-// rl.question('What an activity you like doing?', (answer) => {
-//   console.log(`Thank you providing an activity: ${answer}`);
-
-// rl.question('What do you listen to while you do that?', (answer) => {
-//   console.log(`Thank you providing your favorite music: ${answer}`);
-
-// rl.question('Which meal is your favorite? ex: breakfast, brunch, dinner', (answer) => {
-//   console.log(`Thank you for providing your favorite meal: ${answer}`);
-
-// rl.question('What is your favorite thing to eat during that meal?', (answer) => {
-//   console.log(`Thank you for providing your favorite food: ${answer}`);
